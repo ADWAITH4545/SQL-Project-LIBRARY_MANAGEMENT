@@ -1,6 +1,7 @@
 # SQL-Project-LIBRARY_MANAGEMENT
 
 Project Overview
+
 This SQL project implements a comprehensive database system for managing a library.
 
 Features
@@ -11,6 +12,7 @@ Inventory tracking: Monitor book availability and location within the library
 Employee management : Stores the details of employees
 
 Database Structure
+
 The database consists of several interconnected tables:
 
 Books: Stores information about each book in the library
@@ -21,6 +23,7 @@ issue status: Track details about issued books
 Return status: Stores details about returned books
 
 Key SQL Concepts Used
+
 Table creation and relationships (PRIMARY KEY, FOREIGN KEY)
 Data insertion, updating, and deletion
 Complex queries using JOIN operations
